@@ -1,10 +1,5 @@
 - 👋 Hi, I’m koper
 
-| Kolumna 1 | Kolumna 2 | Kolumna 3 |
-|-----------|-----------|-----------|
-| Wartość A | Wartość B | Wartość C |
-| Wartość D | Wartość E | Wartość F |
-
 
 
 <!---

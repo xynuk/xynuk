@@ -4,6 +4,7 @@
 ## 🔧 Programming Languages
 
 [![Programming Languages](https://skillicons.dev/icons?i=java,py,js,html,css,lua)](https://skillicons.dev)
+I know Lua well and don’t need vibe coding to use it.
 
 ## 🔧 Tools & Environments
 

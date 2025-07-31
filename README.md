@@ -5,6 +5,10 @@
 
 [![Programming Languages](https://skillicons.dev/icons?i=java,py,js,html,css,lua)](https://skillicons.dev)
 
+## 🔧 Tools & Environments
+
+[![Tools & Environments](https://skillicons.dev/icons?i=vscode,idea,robloxstudio)](https://skillicons.dev)
+
 -# Vibe coding is a new AI-powered coding style.
 
 <!---
